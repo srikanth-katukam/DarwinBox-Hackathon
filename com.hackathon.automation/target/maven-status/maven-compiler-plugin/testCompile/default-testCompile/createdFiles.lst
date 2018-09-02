@@ -1,0 +1,10 @@
+factory\BrowserFactory.class
+pages\Occurences.class
+dataprovider\ConfigurationDataProvider.class
+testcases\BookAFlight.class
+WaitImplenatation\Waits.class
+dataprovider\ExcelDataProvider.class
+utility\PageScreenshot.class
+WaitImplenatation\Waits$1.class
+factory\DataProvider.class
+pages\FlightsPage.class
